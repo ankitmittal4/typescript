@@ -3,4 +3,8 @@ function signup(name, email, password, isPremium) {
     console.log(name, email, password, isPremium);
     return;
 }
+function getNum(num) {
+    return "Ankit";
+}
 signup("Ankit", "ankit@gmail.com", 123);
+getNum(5);
